@@ -1,1 +1,1 @@
-- [docker](./docker/docker/menu.md)
+- [docker](./docker/menu.md)
